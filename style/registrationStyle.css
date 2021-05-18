@@ -1,0 +1,24 @@
+nav {
+    margin-bottom: 50px;
+}
+.form-container {
+    max-width: 500px;
+    margin: 0 auto;
+}
+.sign-in-link {
+    display: block;
+    padding: 7px;
+    text-decoration: none;
+    color: #fff;
+}
+.sign-in-btn {
+    padding: 0;
+}
+.sign-in-link:hover {
+    text-decoration: none;
+    color: #fff;
+}
+.alert-success,
+.alert-danger {
+    display: none;
+}

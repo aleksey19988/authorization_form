@@ -1,0 +1,20 @@
+nav {
+    margin-bottom: 50px;
+}
+.form-container {
+    max-width: 500px;
+    margin: 0 auto;
+}
+.register-link {
+    display: block;
+    padding: 7px;
+    text-decoration: none;
+    color: #fff;
+}
+.register-btn {
+    padding: 0;
+}
+.register-link:hover {
+    text-decoration: none;
+    color: #fff;
+}
